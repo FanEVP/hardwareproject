@@ -1,4 +1,4 @@
-/* This version of our css was last updated on Wednesday at about 7pm */
+/* This version of our css was last updated on Thursday at about 11am */
 
 body
 {
@@ -8,23 +8,23 @@ body
 
 h1
 {
-  text-align: center;
-  font-size: 30px;
-  font-family: monospace, sans-serif;
+	text-align: center;
+  	font-size: 30px;
+  	font-family: monospace, sans-serif;
 }
 
 p
 {
-  font-size: 14px;
-  text-align: left;
-  font-family: Arial, "Arial Narrow", sans-serif;
+  	font-size: 14px;
+  	text-align: left;
+  	font-family: Arial, "Arial Narrow", sans-serif;
 }
 
 h2
 {
-  font-size: 24px;
-  text-align: left;
-  font-family: Arial, "Arial Narrow", sans-serif;
+  	font-size: 24px;
+  	text-align: left;
+  	font-family: Arial, "Arial Narrow", sans-serif;
 }
 
 .italicized
@@ -34,18 +34,18 @@ h2
 
 #subtitle
 {
-  text-align: center;
-  font-size: 20px;
-  color: blue;
-  font-family: Tahoma, "sans-serif";
+  	text-align: center;
+  	font-size: 20px;
+  	color: blue;
+  	font-family: Tahoma, "sans-serif";
 }
 
 #homepageimg
 {
-  border-width: medium;
-  border-color: black;
-  border-style: solid;
-  margin left: 280%;
+  	border-width: medium;
+  	border-color: black;
+  	border-style: solid;
+  	margin left: 280%;
 }
 
 #bibliography p
